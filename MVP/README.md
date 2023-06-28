@@ -32,3 +32,4 @@ By following the provided prototype, users can interact with the web app, visual
 It's important to note that the prototype focuses on the basic functionality of the web app and the grid visualization. The implementation of the A* algorithm itself is not included in the prototype, as it may vary depending on specific requirements and constraints.
 
 Overall, the A* Pathfinding Visualization Web App provides a foundational framework for building a more comprehensive and interactive tool for understanding and experimenting with the A* pathfinding algorithm in a web-based environment.
+![](https://github.com/nikhilkoche/Optimal-Path/blob/main/MVP/2023-06-28%2012-26-53.gif)
