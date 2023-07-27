@@ -28,4 +28,4 @@ The functional prototype uses Flask for the backend, providing routes to update 
 By following this prototype, users can interact with the web app, observe the A* pathfinding algorithm in action, and witness the calculated shortest path from the starting point to the destination, considering obstacles in the environment.
 
 Please note that the prototype focuses on the core functionality of the web app and grid visualization. The specific implementation of the A* algorithm is not provided, as it may vary depending on specific requirements and constraints.
-![](https://github.com/nikhilkoche/Optimal-Path/edit/main/MMP/templ.png)
+![](https://github.com/nikhilkoche/Optimal-Path/blob/main/MMP/templ.png)
